@@ -74,7 +74,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 ### Status of me:
 <div align=",left">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiangxb8" />
-    <img align="right" src="https://stats.justsong.cn/api/csdn?id=qq_46550484">
+    <!--<img align="right" src="https://stats.justsong.cn/api/csdn?id=qq_46550484">-->
     <img src="https://activity-graph.herokuapp.com/graph?username=Jiangxb8&theme=minimal" />
 </div>
 ⏰ Updated on Thu, 03 Nov 2022 17:15:00 GMT
