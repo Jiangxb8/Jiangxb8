@@ -1,23 +1,19 @@
 ### Hey, jimiously here!👋
 
-hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
+Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+- 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Shallow programming language foundation(C++,Python,Matlab,etc) and project experience, is growing a cute new piece.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I am interested in remote sensing algorithms and deep learning, and have been practicing for two and a half years.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
+- 💬 If there are any questions you would like to discuss about my warehouse，ask me about anything [here](https://github.com/Jiangxb8/Jiangxb8/issues).
+- 
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
