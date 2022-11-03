@@ -4,7 +4,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 
 **About me**
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/master/wow.gif?raw=true" width="500" height="320" />
  
 - 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
 
