@@ -2,7 +2,15 @@
 
 hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
 
+**About me**
 
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
