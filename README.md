@@ -66,7 +66,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
   </tbody>
 </table>
 
-📊**Coding time in the last week:**
+📊**Coding in the last week:**
 | <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiangxb8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jiangxb8's github stats" /></a> | <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiangxb8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
