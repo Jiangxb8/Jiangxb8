@@ -1,8 +1,8 @@
 ### Hey, jimiously here!👋
 
-hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
