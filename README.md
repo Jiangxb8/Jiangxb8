@@ -6,17 +6,10 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 
   <img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/main/wow.gif?raw=true" width="500" height="320" />
  
-- 💼 
-- Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
-
-- 📈 
-- Shallow programming language foundation(C++,Python,Matlab,etc) and project experience, is growing a cute new piece.
-
-- ❤️ 
-- I am interested in remote sensing algorithms and deep learning, and have been practicing for two and a half years.
-
-- 💬 
-- If there are any questions you would like to discuss about my warehouse，ask me about anything [here](https://github.com/Jiangxb8/Jiangxb8/issues).
+- 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
+- 📈 Shallow programming language foundation(C++,Python,Matlab,etc) and project experience, is growing a cute new piece.
+- ❤️ I am interested in remote sensing algorithms and deep learning, and have been practicing for two and a half years.
+- 💬 If there are any questions you would like to discuss about my warehouse，ask me about anything [here](https://github.com/Jiangxb8/Jiangxb8/issues).
 
 **languages and tools:**  
 
