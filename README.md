@@ -24,7 +24,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br />
-### Some Repositories:
+### Some of My Repositories:
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Jiangxb8" />
 <table>
   <thead align="center">
@@ -64,4 +64,25 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 📊**Coding time in the last week:**
 | <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiangxb8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jiangxb8's github stats" /></a> | <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiangxb8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+### Status of me:
+<div align=",left">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jiangxb8" />
+</div>
+
+⏰ Updated on Thu, 03 Nov 2022 17:15:00 GMT
+
+### Where to find me
+<p>
+  <a href="https://github.com/Jiangxb8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="mailto:jiangxb0504@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%231DA1F2.svg?&style=for-the-badge&logo=email&logoColor=white" /></a>
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=789CF7&lines=Have+a+nice+day!;%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%EF%BC%81" alt="Typing SVG" />
+</a>
+</h1>
+
+
 
