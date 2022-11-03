@@ -1,10 +1,9 @@
 ### Hey, jimiously here!👋
 
 Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
-<img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/main/wow.gif?raw=true" width="500" height="320" />
 
 **About me**
-  
+  <img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/main/wow.gif?raw=true" width="500" height="320" />
 - 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
 
 - 📈 Shallow programming language foundation(C++,Python,Matlab,etc) and project experience, is growing a cute new piece.
@@ -20,6 +19,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
