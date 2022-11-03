@@ -2,6 +2,7 @@
 
 Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
 <img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/main/wow.gif?raw=true" width="500" height="320" />
+
 **About me**
   
 - 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
