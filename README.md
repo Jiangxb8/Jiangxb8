@@ -1,8 +1,8 @@
-### Hey, jimiously here!👋
+## Hey, jimiously here!👋
 
 Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergraduate student at WHU.
 
-**About me**
+### About me
   <img align="right" alt="GIF" src="https://github.com/Jiangxb8/Jiangxb8/blob/main/wow.gif?raw=true" width="500" height="320" />
 - 💼 Undergraduate remote sensing instrument, PhD atmospheric remote sensing.
 
@@ -12,7 +12,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 
 - 💬 If there are any questions you would like to discuss about my warehouse，ask me about anything [here](https://github.com/Jiangxb8/Jiangxb8/issues).
 
-**languages and tools:**  
+### languages and tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -23,32 +23,28 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<br />
+<br />
+
+### Some Repositories
+<a href="https://github.com/Jiangxb8/Video-SAR">
+  <img align="center" src="https://Video-SAR.vercel.app/api/pin/?username=Jiangxb8&repo=Video-SAR&theme=buefy" />
+</a>
+<a href="https://github.com/Jiangxb8/R-Drawing">
+  <img align="center" src="https://R-Drawing.vercel.app/api/pin/?username=Jiangxb8&repo=R-Drawing&theme=buefy" />
+</a>
+
+📊**Coding time in the last week:**
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Jiangxb8" />
+| <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiangxb8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jiangxb8's github stats" /></a> | <a href="https://github.com/Jiangxb8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiangxb8&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jiangxb8&theme=xcode" />
+</div>
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-TypeScript   17 hrs 43 mins  █████████████████████▓░░░   87.09 %
-SCSS         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
