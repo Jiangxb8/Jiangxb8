@@ -77,7 +77,7 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
     <!--<img align="right" src="https://stats.justsong.cn/api/csdn?id=qq_46550484">-->
     <img src="https://activity-graph.herokuapp.com/graph?username=Jiangxb8&theme=minimal" />
 </div>
-⏰ Updated on Thu, 03 Nov 2022 17:15:00 GMT
+⏰ Updated on Thu, 03 Nov 2022 17:15:00 UTC
 
 ### Where to find me?
 <p>
