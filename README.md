@@ -23,17 +23,22 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<span >
+	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+</span>
 <br />
+
 ### Some of My Repositories:
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Jiangxb8" />
 <table>
-  <thead align="center">
+  <thead align="left">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>🎁Projects</b></td>
+      <td><b>⭐Stars</b></td>
+      <td><b>📚Forks</b></td>
+      <td><b>🛎Issues</b></td>
+      <td><b>📬Pull Requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -68,12 +73,13 @@ Hi, i'm [Jiang Xubai](https://jiangxb8.github.io/git-jimiously.com/), an undergr
 
 ### Status of me:
 <div align=",left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jiangxb8" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiangxb8" />
+    <img align="right" src="https://stats.justsong.cn/api/csdn?id=qq_46550484">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jiangxb8&theme=minimal" />
 </div>
-
 ⏰ Updated on Thu, 03 Nov 2022 17:15:00 GMT
 
-### Where to find me
+### Where to find me?
 <p>
   <a href="https://github.com/Jiangxb8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="mailto:jiangxb0504@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%231DA1F2.svg?&style=for-the-badge&logo=email&logoColor=white" /></a>
